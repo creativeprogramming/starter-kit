@@ -11,13 +11,13 @@
       "outputAbbreviatedPath" : "\/_nav.html",
       "fileType" : 65536
     },
-    "\/master.kit\/partials\/_header.kit" : {
+    "\/master.kit\/partials\/_head.kit" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/master.kit\/partials\/_header.kit",
-      "outputAbbreviatedPath" : "\/_header.html",
+      "inputAbbreviatedPath" : "\/master.kit\/partials\/_head.kit",
+      "outputAbbreviatedPath" : "\/_head.html",
       "fileType" : 65536
     },
     "\/master.kit\/about.kit" : {
@@ -38,6 +38,15 @@
       "outputAbbreviatedPath" : "\/_footer.html",
       "fileType" : 65536
     },
+    "\/master.kit\/partials\/_header.kit" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/master.kit\/partials\/_header.kit",
+      "outputAbbreviatedPath" : "\/_header.html",
+      "fileType" : 65536
+    },
     "\/master.kit\/index.kit" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -45,15 +54,6 @@
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/master.kit\/index.kit",
       "outputAbbreviatedPath" : "\/index.html",
-      "fileType" : 65536
-    },
-    "\/master.kit\/partials\/_head.kit" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/master.kit\/partials\/_head.kit",
-      "outputAbbreviatedPath" : "\/_head.html",
       "fileType" : 65536
     }
   },
